@@ -141,6 +141,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 ## 📧 Contato
 
 Luís Antonio Souza Teixeira
+
 E-mail - luishg213@outlook.com
 
 Link do Projeto: [https://github.com/LuisT-ls/financial-manager](https://github.com/LuisT-ls/financial-manager)
