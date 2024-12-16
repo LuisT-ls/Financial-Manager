@@ -44,8 +44,8 @@ Um sistema abrangente de gerenciamento financeiro pessoal desenvolvido em Python
 1. Clone o repositório
 
 ```bash
-git clone https://github.com/LuisT-ls/financial-manager.git
-cd financial-manager
+git clone https://github.com/LuisT-ls/Financial-Manager.git
+cd Financial-Manager
 ```
 
 2. Crie um ambiente virtual
@@ -144,7 +144,7 @@ Luís Antonio Souza Teixeira
 
 E-mail - luishg213@outlook.com
 
-Link do Projeto: [https://github.com/LuisT-ls/financial-manager](https://github.com/LuisT-ls/financial-manager)
+Link do Projeto: [https://github.com/LuisT-ls/Financial-Manager](https://github.com/LuisT-ls/financial-manager)
 
 ---
 
